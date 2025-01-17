@@ -1,0 +1,11 @@
+/* filepath: /c:/myProjects/projectThanos/frontend/src/styles/CuencaCard.module.css */
+.card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
