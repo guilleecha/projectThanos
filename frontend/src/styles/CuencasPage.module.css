@@ -1,0 +1,40 @@
+/* filepath: /c:/myProjects/projectThanos/frontend/src/styles/CuencasPage.module.css */
+.container {
+    padding: 20px;
+}
+
+.title {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.basinTable, .analysisTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.basinTable th, .basinTable td, .analysisTable th, .analysisTable td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.basinTable th, .analysisTable th {
+    background-color: #f4f4f4;
+}
+
+.analysisContainer {
+    margin-top: 20px;
+}
+
+.actions button {
+    margin-right: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.actions button:hover {
+    color: #0070f3;
+}
